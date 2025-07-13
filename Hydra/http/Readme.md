@@ -6,4 +6,6 @@
 - Password (Same ^)
 - IP address
 - Port
-- Endpoint
+- Endpoint (eg. /login.php)
+
+
