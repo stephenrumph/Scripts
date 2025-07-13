@@ -1,4 +1,4 @@
-# HTTP Form Wizard
+# Hydra HTTP Form Wizard
 
 ### The http-form-brute bash script is designed to make a wizard for http form reqests. The options being filled in are:
 
