@@ -19,8 +19,9 @@ Everything here is created with purpose and usually born from a problem I’ve r
 
 | Tool Name       | Description                                             | Status     |
 |----------------|---------------------------------------------------------|------------|
-| `ad-bloodhound-pyjson.sh`  | Collects AD environment info in jason form using bloodhound-python                               | ✅ Working |
-| `simple-http-form-brute.sh`   | Automates remembering the syntax of hydra for bruteforcing simple http web forms   | Working   |
+| `ad-bloodhound-pyjson.sh`  | A script to help me with remembering the syntax for AD enumeration for use in bloodhound
+                            | ✅ Working |
+| `simple-http-form-brute.sh`   | Automates remembering the syntax of hydra for bruteforcing simple http web forms   | ✅ Working   |
 
 More tools will be added as I build them.
 
@@ -29,5 +30,5 @@ More tools will be added as I build them.
 Clone the repo:
 
 ```bash
-git clone https://github.com/stephenrumph/SCRIPTS.git
-cd YOUR-REPO-NAME
+git clone https://github.com/stephenrumph/security-tools.git
+cd security-tools
